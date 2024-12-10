@@ -1,0 +1,17 @@
+{
+  "name": "fake-rest-api",
+  "version": "1.0.0",
+  "description": "Fake REST API for testing ",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db3.json",
+    "json:server:remote": "json-server https://jsonplaceholder.typicode.com/db"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "json-server": "^1.0.0-beta.3"
+  }
+}

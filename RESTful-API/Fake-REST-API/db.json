@@ -1,0 +1,53 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john@gmail.com",
+            "age": 34,
+            "companyId": "1"
+        },
+        {
+            "id": "2",
+            "firstName": "Mark",
+            "lastName": "Williams",
+            "email": "mark@gmail.com",
+            "age": 33,
+            "companyId": "1"
+        },
+        {
+            "id": "3",
+            "firstName": "Sara",
+            "lastName": "Thompson",
+            "email": "sara@gmail.com",
+            "age": 23,
+            "companyId": "2"
+        },
+        {
+            "id": "4",
+            "firstName": "Karen",
+            "lastName": "Jackson",
+            "email": "Karen@gmail.com",
+            "age": 45,
+            "companyId": "3"
+        }
+    ],
+    "companies":[
+        {
+            "id": "1",
+            "name": "Apple",
+            "description": " Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. "
+        },
+        {
+            "id": "2",
+            "name": "Microsoft",
+            "description": "We’re living in an era in which technology has the potential to power awesome advancements across every sector of our economy and society. This places us at a historic intersection of opportunity and responsibility. Our mission has never been more important. To realize it, we must create a future that benefits everyone."
+        },
+        {
+            "id": "3",
+            "name": "Google",
+            "description": "Google's full form is Global Organisation of Oriented Group Language of Earth. It was founded in 1998 by Larry Page and Sergey Brin, two Stanford University students. “To organise the world's information and make it widely accessible and valuable,” the organisation's mission states. "
+        }
+    ]
+}
